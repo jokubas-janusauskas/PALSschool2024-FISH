@@ -1,4 +1,7 @@
 # Transcriptomics2024-FISH
+#### Today's exercises are based on FISHscale tutorials from the Linnarsson Lab GitHub page:
+#### https://github.com/linnarsson-lab/FISHscale
+#### (check them out for more use-case examples)
 #### Before we proceed, I recommend you make a folder dedicated to today's workshop and download all the files in this repository to it.
 ## Install MiniConda
 #### We'll be running some Python scripts. For that we'll need Conda. Follow the instructions here to install it from command line on your OS:
@@ -12,7 +15,7 @@ cd path/to/the/folder
 ```console
 conda env create --name fish_training --file fish_training.yml
 ```
-#### This may take a few minutes
+#### (this may take a couple of minutes...)
 ## Activate the environment
 #### Activate the environment with the following command:
 ```console
