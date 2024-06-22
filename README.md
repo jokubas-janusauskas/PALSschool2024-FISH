@@ -19,7 +19,7 @@ conda env create --name fish_training --file fish_training.yml
 ## Activate the environment
 #### Activate the environment with the following command:
 ```console
-conda activate
+conda activate fish_training
 ```
 ## Launching the notebook
 #### Add the environment to Jupyter with the following command (only needs to be done once):
