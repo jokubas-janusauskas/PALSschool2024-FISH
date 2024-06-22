@@ -4,9 +4,7 @@
 #### We'll be running some Python scripts. For that we'll need Conda installed. Follow the instructions here to install it from command line on your OS:\https://docs.anaconda.com/miniconda/#quick-command-line-install
 ## Set up the Conda environment
 #### Once Conda is installed, we'll need to set up the environment. In the terminal, go to the folder with the downloaded files using the command\
-'''
-cd path/to/the/folder
-'''
+#### 'cd path/to/the/folder'
 #### and execute the following command:\
 '''
 conda env create --name fish_training --file fish_training.yml
