@@ -7,9 +7,9 @@
 #### Once Conda is installed, we'll need to set up the environment. In the terminal, go to the folder with the downloaded files using the command
 #### cd path/to/the/folder
 #### and execute the following command:\
-'''console
+```console
 conda env create --name fish_training --file fish_training.yml
-'''
-This may take a few minutes
+```
+#### This may take a few minutes
 ## Activate the environment
 #### Activate the environment by typing/conda activate 
