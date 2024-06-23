@@ -16,7 +16,6 @@ cd path/to/the/folder
 ```console
 conda env create --name fish_training --file fish_training.yml
 ```
-#### (this may take a couple of minutes...)
 
 ## Activate the environment
 #### Now let's activate the environment with the following command:
@@ -34,7 +33,7 @@ cd BoneFight
 pip install -e .
 cd ../
 ```
-#### This downloads and installs FISHscale and BoneFight packages, both of which you can read more about on https://github.com/linnarsson-lab/)
+#### (this may take a few minutes: it downloads and installs FISHscale and BoneFight packages, both of which you can read more about on https://github.com/linnarsson-lab/)
 ## Launching the notebook
 #### Add the environment to Jupyter with the following command (only needs to be done once):
 ```console
