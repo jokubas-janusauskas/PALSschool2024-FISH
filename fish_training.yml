@@ -1,0 +1,10 @@
+name: fish_training
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip:
+      - napari==0.4.19.post1
+      - jupyterlab==4.2.1
+      - ipykernel==6.29.4
