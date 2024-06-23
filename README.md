@@ -6,6 +6,7 @@
 ## Install MiniConda
 #### We'll be running some Python scripts. For that we'll need Conda. Follow the instructions here to install it from command line on your OS:
 #### https://docs.anaconda.com/miniconda/#quick-command-line-install
+#### (N.B. observe that you might need to copy a different download link, according to your OS architecture (as explained in the website)!)
 ## Set up the Conda environment
 #### Once Conda is installed, we'll need to set up the environment. In the terminal, go to the folder with the downloaded files using the command
 ```console
