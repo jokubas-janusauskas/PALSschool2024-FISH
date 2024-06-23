@@ -25,13 +25,13 @@ conda activate fish_training
 #### And execute the following commands to finish setting it up:
 ```console
 git clone https://github.com/linnarsson-lab/FISHscale.git
+git clone https://github.com/linnarsson-lab/BoneFight
 cd FISHscale
 pip install -e .
-cd ../
-git clone https://github.com/linnarsson-lab/BoneFight
-cd BoneFight
+cd ../BoneFight
 pip install -e .
 cd ../
+
 ```
 #### (this may take a few minutes: it downloads and installs FISHscale and BoneFight packages, both of which you can read more about on https://github.com/linnarsson-lab/)
 ## Launching the notebook
