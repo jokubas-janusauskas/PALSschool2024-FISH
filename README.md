@@ -16,10 +16,22 @@ cd path/to/the/folder
 conda env create --name fish_training --file fish_training.yml
 ```
 #### (this may take a couple of minutes...)
+
 ## Activate the environment
-#### Activate the environment with the following command:
+#### Now let's activate the environment with the following command:
 ```console
 conda activate fish_training
+```
+#### And execute the following commands to finish setting it up:
+```console
+git clone https://github.com/linnarsson-lab/FISHscale.git
+cd FISHscale
+pip install -e .
+cd ../
+git clone https://github.com/linnarsson-lab/BoneFight
+cd BoneFight
+pip install -e .
+cd ../
 ```
 ## Launching the notebook
 #### Add the environment to Jupyter with the following command (only needs to be done once):
@@ -31,3 +43,4 @@ python -m ipykernel install --user --name fish_training --display-name "FISH_tra
 jupyter lab
 ```
 #### and open FISH_Training.ipynb file.
+#### After the initial set up, you will only need to activate the environment and launch the notebook with the command above!
