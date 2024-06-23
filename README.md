@@ -34,6 +34,7 @@ cd BoneFight
 pip install -e .
 cd ../
 ```
+#### This downloads and installs FISHscale and BoneFight packages, both of which you can read more about on https://github.com/linnarsson-lab/)
 ## Launching the notebook
 #### Add the environment to Jupyter with the following command (only needs to be done once):
 ```console
@@ -43,5 +44,5 @@ python -m ipykernel install --user --name fish_training --display-name "FISH_tra
 ```console
 jupyter lab
 ```
-#### and open FISH_Training.ipynb file.
+#### and open FISH_Training.ipynb file. If prompted to select a kernel, choose "FISH_training".
 #### After the initial set up, you will only need to activate the environment and launch the notebook with the command above!
