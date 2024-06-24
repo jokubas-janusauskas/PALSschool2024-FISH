@@ -2,7 +2,7 @@
 #### The workshop assumes some familiarity with coding, but simply following the instructions below should get you up and running even if you don't have much experience.
 #### If something does not work or if you are struggling with the set up - do not worry, I will be happy to help during the Summer School.
 
-#### Before we proceed any further, I recommend you make a folder dedicated to today's workshop and download FISH_Training.ipynb and fish_training.yml files from this repository to your folder.
+#### Before we proceed any further, I recommend you make a folder dedicated to this workshop and download the FISH_Training.ipynb and fish_training.yml files from this repository to that folder.
 
 #### We'll be using Jupyter notebook in Python for [FISHscale](https://github.com/linnarsson-lab/FISHscale). For that we need to set up a few things (it shouldn't take more than 15 minutes):
 ## Install MiniConda
