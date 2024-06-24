@@ -47,7 +47,7 @@ python -m ipykernel install --user --name fish_training --display-name "FISH_tra
 jupyter lab
 ```
 #### Once connected, open the FISH_Training.ipynb file. If prompted to select a kernel, choose "FISH_training".
-#### After going through this initial set up once, you will only need to activate the environment and launch the notebook if you want to run the notebook in the future:
+#### After going through this initial set up once, you will only need to activate the environment and launch the notebook if you want to run it again in the future:
 ```console
 conda activate fish_training
 jupyter lab
