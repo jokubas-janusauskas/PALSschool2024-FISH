@@ -1,4 +1,4 @@
-# Transcriptomics2024-FISH
+# EEL-FISH workshop
 #### The workshop assumes some familiarity with coding, but simply following the instructions below should get you up and running even if you don't have much experience.
 #### If something does not work or if you are struggling with the set up - do not worry, I will be happy to help during the Summer School.
 
