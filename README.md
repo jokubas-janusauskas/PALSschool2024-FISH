@@ -6,7 +6,7 @@
 
 #### We'll be using Jupyter notebook in Python for [FISHscale](https://github.com/linnarsson-lab/FISHscale). For that we need to set up a few things (it shouldn't take more than 15 minutes):
 ## Install MiniConda
-#### Conda is the main tool for managing Python packages, environments, etc. If you don't have it yet, follow the instructions [here](https://docs.anaconda.com/miniconda/#quick-command-line-install) to install it from command line on your OS.
+#### Conda is the main tool for managing Python packages, environments, etc. If you don't have it yet, follow the instructions [here](https://docs.anaconda.com/miniconda/#quick-command-line-install) to install it from command line for your OS.
 #### (N.B. observe that you might need to copy a different download link, according to your OS architecture (as explained in the website)!)
 
 #### If you prefer, there is also a [graphical installer](https://docs.anaconda.com/miniconda/miniconda-install/).
