@@ -27,7 +27,7 @@ conda activate fish_training
 #### Finally, download and install the last couple of packages that have to be set up manually (this may take a few minutes):
 ```console
 git clone https://github.com/linnarsson-lab/FISHscale.git
-git clone https://github.com/linnarsson-lab/FISHscale.git
+git clone https://github.com/linnarsson-lab/BoneFight
 cd FISHscale
 pip install -e .
 cd ../BoneFight
