@@ -38,7 +38,7 @@ cd ../
 #### (You can read more about these packages here: [FISHscale](https://github.com/linnarsson-lab/FISHscale) and [BoneFight](https://github.com/linnarsson-lab/BoneFight))
 
 ## Launching the notebook
-#### Lastly, we just need to add the environment to our Jupyter with the following command (only needs to be done once):
+#### Lastly, we just need to add the environment to our Jupyter with the following command:
 ```console
 python -m ipykernel install --user --name fish_training --display-name "FISH_training"
 ```
@@ -47,7 +47,7 @@ python -m ipykernel install --user --name fish_training --display-name "FISH_tra
 jupyter lab
 ```
 #### Once connected, open the FISH_Training.ipynb file. If prompted to select a kernel, choose "FISH_training".
-#### After goind through the initial set up, you will only need to activate the environment and launch the notebook:
+#### After going through this initial set up once, you will only need to activate the environment and launch the notebook if you want to run the notebook in the future:
 ```console
 conda activate fish_training
 jupyter lab
