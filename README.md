@@ -9,10 +9,10 @@
 #### Conda is the main tool for managing Python packages, environments, etc. If you don't have it yet, follow the instructions [here](https://docs.anaconda.com/miniconda/#quick-command-line-install) to install it from command line on your OS.
 #### (N.B. observe that you might need to copy a different download link, according to your OS architecture (as explained in the website)!)
 
-#### If you prefer, there is also a [graphical installer](https://docs.anaconda.com/miniconda/miniconda-install/)
+#### If you prefer, there is also a [graphical installer](https://docs.anaconda.com/miniconda/miniconda-install/).
 
 ## Set up the Conda environment
-#### Once Conda is installed, we'll need to set up an environment will all the required packages. In the terminal, go to the folder that you have created for this workshop by using the command (replace 'path/to/the/folder' with your actual path):
+#### Once Conda is installed, we'll need to set up an environment with all the required packages. In the terminal, go to the folder that you have created for this workshop by using the command (replace 'path/to/the/folder' with your actual path):
 ```console
 cd path/to/the/folder
 ```
